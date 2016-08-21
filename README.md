@@ -9,6 +9,6 @@ Goal of the game: find a key and escape the labyrinth without touching enemies t
 
 Screenshots:
 
-![Menu Screenshot](Screenshots/LabyrinthGame screenshot2.JPG?raw=true "Labyrinth Screenshot")
+![Menu Screenshot](Screenshots/LabyrinthGame Screenshot2.JPG?raw=true "Labyrinth Screenshot")
 
 ![InGame Screenshot](Screenshots/LabyrinthGame screenshot.JPG?raw=true "Labyrinth Screenshot")

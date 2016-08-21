@@ -7,6 +7,8 @@ Download and place levels and the "Play the game.jar" file into a folder and run
 
 Goal of the game: find a key and escape the labyrinth without touching enemies too often.
 
-Screenshot:
+Screenshots:
 
-![Labyrinth Screenshot](Labyrinth screenshot.JPG?raw=true "Labyrinth Screenshot")
+![Menu Screenshot](Screenshots/LabyrinthGame screenshot2.JPG?raw=true "Labyrinth Screenshot")
+
+![InGame Screenshot](Screenshots/LabyrinthGame screenshot.JPG?raw=true "Labyrinth Screenshot")

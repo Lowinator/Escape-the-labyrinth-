@@ -1,4 +1,4 @@
-# Labyrinth-Game
+# Escape the labyrinth
 This game was a project for my programming intro class.
 
 **How to try it out:**

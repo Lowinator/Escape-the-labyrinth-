@@ -9,6 +9,6 @@ Goal of the game: find a key and escape the labyrinth without touching enemies t
 
 Screenshots:
 
-![Menu Screenshot](Screenshots/LabyrinthGame Screenshot2.JPG?raw=true "Labyrinth Screenshot")
+![Menu Screenshot](https://github.com/Lowinator/Escape-the-labyrinth-/blob/master/Screenshots/LabyrinthGame%20Screenshot2.JPG "Labyrinth Screenshot2")
 
-![InGame Screenshot](Screenshots/LabyrinthGame screenshot.JPG?raw=true "Labyrinth Screenshot")
+![InGame Screenshot](https://github.com/Lowinator/Escape-the-labyrinth-/blob/master/Screenshots/LabyrinthGame%20screenshot.JPG "Labyrinth Screenshot")
